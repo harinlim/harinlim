@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Harin! <img src="/images/pokeball.png" width="50">
 
 <!--
 **harinlim/harinlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
