@@ -6,7 +6,7 @@
 
 ## <img src="/images/squirtle.png" height="35"> Tech Stack
 ### Front-end
-<p align="left">
+<p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" height="25">
@@ -19,7 +19,7 @@
 </p>
 
 ### Back-end
-<p align="left">
+<p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" height="25">
