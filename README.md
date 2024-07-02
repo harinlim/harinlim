@@ -1,10 +1,10 @@
 # <img src="/images/pokeball.png" height="35"> Hi, I'm Harin!
-## <img src="/images/snorlax.png" height="35"> I'm a...
+## <img src="/images/snorlax.png" height="30"> I'm a...
 - CS Student at UNC-CH 🏫
 - Aspiring full-stack developer 💻
 - Certified gamer 👾
 
-## <img src="/images/squirtle.png" height="35"> Tech Stack
+## <img src="/images/squirtle.png" height="30">  Tech Stack
 ### Front-end
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular2.svg" height="25">
@@ -18,7 +18,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25">
 </p>
 
-### Back-end
+###  Back-end
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="25">
@@ -32,7 +32,7 @@
 </p>
 
 
-## <img src="/images/dragonair.png" height="30"> Contact Me!
+## <img src="/images/dragonair.png" height="25">  Contact Me!
 **Email**: harinlim@outlook.com
 
 **LinkedIn**: [@harin-lim](https://www.linkedin.com/in/harin-lim/)
