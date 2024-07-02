@@ -26,7 +26,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" height="25">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" height="25">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" height="25">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" height="25">
 </p>
