@@ -1,4 +1,4 @@
-# <img src="/images/pokeball.png" height="35"> Hi, I'm Harin!
+# <img src="/images/pokeball.png" height="35"> Hi 👋🏻, I'm Harin!
 ## <img src="/images/snorlax.png" height="30"> I'm a...
 - CS Student at UNC-CH 🏫
 - Aspiring full-stack developer 💻
